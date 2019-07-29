@@ -1,0 +1,852 @@
+State/ UT,Sl. No.,District/ Area,Crime Type,2013,2014,2015,2016,2017,2018
+,,,,1,2,3,4,5,6
+Andhra Pradesh,1,Anantapur,Kidnapping,44,66,45,51,52,55
+Andhra Pradesh,2,Chittoor,Kidnapping,30,32,20,28,29,40
+Andhra Pradesh,3,Cuddapah,Kidnapping,20,22,17,25,33,44
+Andhra Pradesh,4,East Godavari,Kidnapping,35,37,25,30,34,54
+Andhra Pradesh,5,Guntakal Railway,Kidnapping,12,14,3,5,7,9
+Andhra Pradesh,6,Guntur,Kidnapping,33,43,42,44,43,55
+Andhra Pradesh,7,Guntur Urban,Kidnapping,70,74,68,10,77,99
+Andhra Pradesh,8,Krishna,Kidnapping,35,34,19,20,22,44
+Andhra Pradesh,9,Kurnool,Kidnapping,15,17,34,5,7,9
+Andhra Pradesh,10,Nellore,Kidnapping,55,33,64,67,68,77
+Andhra Pradesh,11,Prakasham,Kidnapping,45,55,44,49,50,55
+Andhra Pradesh,12,Rajahmundry,Kidnapping,20,12,16,14,15,22
+Andhra Pradesh,13,Srikakulam,Kidnapping,40,32,28,77,80,13
+Andhra Pradesh,14,Tirupathi Urban,Kidnapping,20,22,16,15,17,12
+Andhra Pradesh,15,Vijayawada City,Kidnapping,30,45,26,24,22,14
+Andhra Pradesh,16,Vijayawada Railway,Kidnapping,66,70,54,55,55,44
+Andhra Pradesh,17,Visakha Rural,Kidnapping,25,29,23,21,26,39
+Andhra Pradesh,18,Visakhapatnam,Kidnapping,99,104,126,120,130,156
+Andhra Pradesh,19,Vizianagaram,Kidnapping,14,11,11,14,15,10
+Andhra Pradesh,20,West Godavari,Kidnapping,55,44,48,50,60,50
+Andhra Pradesh,21,Total District(s),Kidnapping,763,796,729,724,842,901
+Arunachal Pradesh,1,Anjaw,Kidnapping,44,52,54,57,52,12
+Arunachal Pradesh,2,Changlang,Kidnapping,9,15,7,12,13,14
+Arunachal Pradesh,3,Crime Branch,Kidnapping,11,9,7,8,8,4
+Arunachal Pradesh,4,Dibang Valley,Kidnapping,55,43,45,47,45,66
+Arunachal Pradesh,5,Kameng East,Kidnapping,3,13,1,8,9,8
+Arunachal Pradesh,6,Kameng West,Kidnapping,6,12,3,2,5,6
+Arunachal Pradesh,7,Kurung Kumey,Kidnapping,9,13,3,6,7,4
+Arunachal Pradesh,8,Lohit,Kidnapping,44,43,51,45,58,66
+Arunachal Pradesh,9,Longding,Kidnapping,9,15,6,5,8,4
+Arunachal Pradesh,10,Lower Dibang Valley,Kidnapping,15,9,6,8,9,5
+Arunachal Pradesh,11,Papum Pare City,Kidnapping,77,55,62,68,56,52
+Arunachal Pradesh,12,Papum Pare Rural,Kidnapping,9,11,2,4,3,4
+Arunachal Pradesh,13,Siang East,Kidnapping,19,14,9,5,6,9
+Arunachal Pradesh,14,Siang Upper,Kidnapping,3,13,11,20,22,13
+Arunachal Pradesh,15,Siang West,Kidnapping,19,13,6,9,10,11
+Arunachal Pradesh,16,Subansiri Lower,Kidnapping,13,16,14,10,11,13
+Arunachal Pradesh,17,Subansiri Upper,Kidnapping,3,9,1,6,8,9
+Arunachal Pradesh,18,Tawang,Kidnapping,34,33,65,66,77,28
+Arunachal Pradesh,19,Tirap,Kidnapping,59,63,46,48,49,59
+Arunachal Pradesh,20,Siang,Kidnapping,55,44,56,53,57,54
+Arunachal Pradesh,21,Total District(s),Kidnapping,496,495,455,487,513,441
+Assam,1,B. I. E. O.,Kidnapping,4,13,6,8,15,15
+Assam,2,Barpeta,Kidnapping,298,301,373,280,422,324
+Assam,3,Baksa,Kidnapping,102,120,128,117,130,155
+Assam,4,Bongaigaon,Kidnapping,123,133,131,128,140,121
+Assam,5,C. I. D.,Kidnapping,129,123,150,154,160,120
+Assam,6,Cachar,Kidnapping,19,20,24,14,15,14
+Assam,7,Chirang,Kidnapping,49,33,44,44,54,50
+Assam,8,Darrang,Kidnapping,112,114,198,155,112,120
+Assam,9,Dhemaji,Kidnapping,32,44,44,56,42,57
+Assam,10,Dhubri,Kidnapping,302,334,399,400,334,312
+Assam,11,Dibrugarh,Kidnapping,198,204,184,189,200,208
+Assam,12,G. R. P.,Kidnapping,11,9,4,4,8,4
+Assam,13,Goalpara,Kidnapping,53,55,62,67,70,58
+Assam,14,Golaghat,Kidnapping,116,120,167,157,140,112
+Assam,15,Guwahati City,Kidnapping,49,55,51,50,90,86
+Assam,16,Hailakandi,Kidnapping,99,111,89,88,100,95
+Assam,17,Hamren,Kidnapping,20,11,16,18,12,5
+Assam,18,Jorhat,Kidnapping,119,122,176,177,122,138
+Assam,19,Kamrup,Kidnapping,202,156,207,176,202,250
+Assam,20,Karbi Anglong,Kidnapping,9,3,8,2,3,5
+Assam,21,Karimganj,Kidnapping,190,187,136,166,198,176
+Assam,22,Kokrajhar,Kidnapping,112,133,98,99,112,92
+Assam,23,Lakhimpur,Kidnapping,166,122,182,188,111,182
+Assam,24,Morigaon,Kidnapping,156,185,182,200,224,182
+Assam,25,Dima Hasao,Kidnapping,14,19,16,25,12,13
+Assam,26,Nagaon,Kidnapping,334,335,328,400,428,312
+Assam,27,Nalbari,Kidnapping,112,119,102,100,150,144
+Assam,28,R. P. O.,Kidnapping,13,19,3,11,9,18
+Assam,29,S. T. F.,Kidnapping,10,9,5,4,9,1
+Assam,30,Sibsagar,Kidnapping,299,310,290,300,310,290
+Assam,31,Sonitpur,Kidnapping,144,156,136,134,122,133
+Assam,32,Tinsukia,Kidnapping,21,25,14,13,15,19
+Assam,33,Udalguri,Kidnapping,70,77,63,66,66,69
+Assam,34,Sadia,Kidnapping,13,14,6,5,9,11
+Assam,35,Majuli,Kidnapping,11,13,6,4,9,15
+Assam,36,Biswanath,Kidnapping,116,114,106,88,99,111
+Assam,37,Hojai,Kidnapping,166,156,138,161,200,150
+Assam,38,South Salmara,Kidnapping,68,70,58,60,130,112
+Assam,39,Total District(s),Kidnapping,4061,4144,4330,4308,4584,4279
+Bihar,1,Araria,Kidnapping,90,88,81,80,90,122
+Bihar,2,Arwal,Kidnapping,78,99,68,67,77,92
+Bihar,3,Aurangabad,Kidnapping,49,56,46,65,66,69
+Bihar,4,Bagaha,Kidnapping,77,62,68,65,88,77
+Bihar,5,Banka,Kidnapping,99,89,76,86,90,79
+Bihar,6,Begusarai,Kidnapping,88,82,134,66,77,55
+Bihar,7,Bettiah,Kidnapping,57,78,55,76,88,44
+Bihar,8,Bhabhua,Kidnapping,102,109,64,111,113,88
+Bihar,9,Bhagalpur,Kidnapping,111,113,185,194,200,196
+Bihar,10,Bhojpur,Kidnapping,114,98,89,104,199,178
+Bihar,11,Buxar,Kidnapping,55,59,63,43,44,90
+Bihar,12,Darbhanga,Kidnapping,255,233,217,250,218,177
+Bihar,13,Gaya,Kidnapping,198,202,196,150,148,166
+Bihar,14,Gopalganj,Kidnapping,192,178,135,140,290,188
+Bihar,15,Jamalpur Railway,Kidnapping,88,78,65,69,133,90
+Bihar,16,Jamui,Kidnapping,65,78,40,45,19,77
+Bihar,17,Jehanabad,Kidnapping,65,67,54,78,69,88
+Bihar,18,Katihar,Kidnapping,102,113,147,169,111,113
+Bihar,19,Katihar Railway,Kidnapping,4,9,1,4,15,20
+Bihar,20,Khagaria,Kidnapping,78,99,80,99,111,99
+Bihar,21,Kishanganj,Kidnapping,147,117,89,92,150,149
+Bihar,22,Lakhisarai,Kidnapping,102,99,138,111,112,111
+Bihar,23,Madhepura,Kidnapping,88,112,79,89,90,99
+Bihar,24,Madhubani,Kidnapping,212,204,202,201,222,188
+Bihar,25,Motihari,Kidnapping,199,202,251,255,212,194
+Bihar,26,Munger,Kidnapping,54,66,43,48,49,99
+Bihar,27,Muzaffarpur,Kidnapping,202,203,208,199,200,210
+Bihar,28,Muzaffarpur Railway,Kidnapping,11,19,6,8,4,10
+Bihar,29,Nalanda,Kidnapping,202,198,193,200,199,201
+Bihar,30,Naugachia,Kidnapping,44,41,32,30,34,44
+Bihar,31,Nawadah,Kidnapping,178,199,106,140,166,193
+Bihar,32,Patna,Kidnapping,677,649,644,540,599,640
+Bihar,33,Patna Railway,Kidnapping,21,22,5,8,13,22
+Bihar,34,Purnea,Kidnapping,119,132,111,120,130,138
+Bihar,35,Rohtas,Kidnapping,143,155,108,99,110,120
+Bihar,36,Saharsa,Kidnapping,92,84,86,56,88,102
+Bihar,37,Samastipur,Kidnapping,112,102,183,192,111,99
+Bihar,38,Saran,Kidnapping,224,296,222,210,211,199
+Bihar,39,Sheikhpura,Kidnapping,13,18,24,28,20,11
+Bihar,40,Sheohar,Kidnapping,78,66,25,35,37,88
+Bihar,41,Sitamarhi,Kidnapping,145,188,180,155,110,201
+Bihar,42,Siwan,Kidnapping,192,188,136,186,199,192
+Bihar,43,Supaul,Kidnapping,103,93,99,95,99,101
+Bihar,44,Vaishali,Kidnapping,202,209,229,224,201,213
+Bihar,45,Economic Offences Unit,Kidnapping,39,26,7,10,35,29
+Bihar,46,Anti Terrorist Squad,Kidnapping,67,88,65,67,136,98
+Bihar,47,Total District(s),Kidnapping,5633,5766,5335,5359,5783,5859
+Chhattisgarh,1,Balod,Kidnapping,44,34,32,34,44,41
+Chhattisgarh,2,Balodbazar,Kidnapping,44,66,83,58,60,40
+Chhattisgarh,3,Balrampur,Kidnapping,19,18,14,25,39,19
+Chhattisgarh,4,Bemetra,Kidnapping,32,43,29,20,49,29
+Chhattisgarh,5,Bilaspur,Kidnapping,296,202,244,231,212,202
+Chhattisgarh,6,Bizapur,Kidnapping,44,52,12,50,62,42
+Chhattisgarh,7,Dantewara,Kidnapping,12,15,8,10,18,22
+Chhattisgarh,8,Dhamtari,Kidnapping,19,11,13,15,28,8
+Chhattisgarh,9,Durg,Kidnapping,202,198,185,190,185,188
+Chhattisgarh,10,Gariyaband,Kidnapping,20,25,17,15,32,34
+Chhattisgarh,11,G. R. P. Raipur,Kidnapping,24,32,21,29,50,33
+Chhattisgarh,12,Jagdalpur,Kidnapping,66,76,50,45,95,75
+Chhattisgarh,13,Janjgir,Kidnapping,88,102,79,76,88,95
+Chhattisgarh,14,Jashpur,Kidnapping,77,81,57,54,81,61
+Chhattisgarh,15,Kabirdham,Kidnapping,45,34,35,32,67,47
+Chhattisgarh,16,Kanker,Kidnapping,42,32,31,29,60,40
+Chhattisgarh,17,Kondagaon,Kidnapping,43,22,21,51,22,2
+Chhattisgarh,18,Korba,Kidnapping,121,123,151,110,102,82
+Chhattisgarh,19,Koriya,Kidnapping,88,78,41,37,78,58
+Chhattisgarh,20,Mahasamund,Kidnapping,66,78,48,49,97,77
+Chhattisgarh,21,Mungali,Kidnapping,77,66,38,56,94,74
+Chhattisgarh,22,Narayanpur,Kidnapping,17,8,7,10,17,20
+Chhattisgarh,23,Raigarh,Kidnapping,88,136,75,72,147,127
+Chhattisgarh,24,Raipur,Kidnapping,102,177,205,211,202,182
+Chhattisgarh,25,Rajnandgaon,Kidnapping,67,88,73,76,149,129
+Chhattisgarh,26,Sarguja,Kidnapping,38,27,14,9,23,33
+Chhattisgarh,27,Sukma,Kidnapping,13,16,5,13,18,20
+Chhattisgarh,28,Surajpur,Kidnapping,55,46,45,46,91,71
+Chhattisgarh,29,Total District(s),Kidnapping,1849,1886,1633,1653,2210,1851
+Goa,1,North Goa,Kidnapping,34,44,43,22,23,55
+Goa,2,South Goa,Kidnapping,14,19,27,14,12,13
+Goa,3,C. I. D.,Kidnapping,142,144,64,120,188,166
+Goa,4,Total District(s),Kidnapping,88,76,70,34,88,90
+Gujarat,1,Ahmedabad City,Kidnapping,222,202,243,240,122,322
+Gujarat,2,Ahmedabad Rural,Kidnapping,166,112,91,110,110,120
+Gujarat,3,Amreli,Kidnapping,88,77,48,50,90,110
+Gujarat,4,Anand,Kidnapping,87,87,96,100,110,120
+Gujarat,5,Arvalli,Kidnapping,12,19,15,18,20,22
+Gujarat,6,Banaskantha,Kidnapping,99,88,89,90,99,110
+Gujarat,7,Bharuch,Kidnapping,24,29,24,21,22,29
+Gujarat,8,Bhavnagar,Kidnapping,44,32,27,24,48,83
+Gujarat,9,Botad,Kidnapping,28,23,25,30,22,21
+Gujarat,10,Chhotaudepur,Kidnapping,13,8,6,7,9,10
+Gujarat,11,C. I. D. Crime,Kidnapping,11,9,4,10,11,19
+Gujarat,12,Dahod,Kidnapping,66,55,53,49,66,67
+Gujarat,13,Dang,Kidnapping,44,54,45,34,44,88
+Gujarat,14,Devbhumi Dwarka,Kidnapping,22,34,11,17,18,33
+Gujarat,15,Gandhinagar,Kidnapping,34,42,22,28,33,39
+Gujarat,16,Gir Somnath,Kidnapping,16,22,14,20,22,29
+Gujarat,17,Jamnagar,Kidnapping,44,34,36,32,44,50
+Gujarat,18,Junagadh,Kidnapping,24,33,25,56,69,77
+Gujarat,19,Kachchh East(G),Kidnapping,44,34,35,48,50,55
+Gujarat,20,Kachchh West(B),Kidnapping,11,3,8,4,10,11
+Gujarat,21,Kheda,Kidnapping,65,54,73,32,79,88
+Gujarat,22,Mahisagar,Kidnapping,49,39,19,29,39,49
+Gujarat,23,Mehsana,Kidnapping,68,58,81,56,55,59
+Gujarat,24,Morbi,Kidnapping,23,29,21,33,36,39
+Gujarat,25,Narmada,Kidnapping,3,9,5,7,9,9
+Gujarat,26,Navsari,Kidnapping,121,132,125,121,121,112
+Gujarat,27,Panchmahal,Kidnapping,19,23,16,26,17,19
+Gujarat,28,Patan,Kidnapping,44,39,16,45,46,13
+Gujarat,29,Porbandar,Kidnapping,23,33,11,18,19,22
+Gujarat,30,Rajkot City,Kidnapping,67,77,74,70,99,95
+Gujarat,31,Rajkot Rural,Kidnapping,67,67,60,64,95,93
+Gujarat,32,Sabarkantha,Kidnapping,21,23,19,29,20,29
+Gujarat,33,Surat City,Kidnapping,144,132,143,136,144,152
+Gujarat,34,Surat Rural,Kidnapping,45,43,43,42,44,49
+Gujarat,35,Surendranagar,Kidnapping,79,88,36,88,99,112
+Gujarat,36,Tapi,Kidnapping,32,22,9,11,19,22
+Gujarat,37,Vadodara City,Kidnapping,78,76,45,36,99,92
+Gujarat,38,Vadodara Rural,Kidnapping,44,54,37,77,66,46
+Gujarat,39,Valsad,Kidnapping,66,45,69,59,60,12
+Gujarat,40,W.Rly Ahmedabad,Kidnapping,66,46,54,45,13,67
+Gujarat,41,W.Rly Vadodara,Kidnapping,12,22,4,12,17,19
+Gujarat,42,Total District(s),Kidnapping,2235,2108,1877,2024,2215,2613
+Haryana,1,Ambala (Rural),Kidnapping,23,24,26,30,66,68
+Haryana,2,Ambala (Urban),Kidnapping,78,89,51,58,60,90
+Haryana,3,Bhiwani,Kidnapping,88,89,36,49,51,66
+Haryana,4,Faridabad,Kidnapping,323,344,313,320,398,340
+Haryana,5,Fatehabad,Kidnapping,44,34,31,37,40,44
+Haryana,6,G. R. P.,Kidnapping,44,39,45,54,59,60
+Haryana,7,Gurgaon,Kidnapping,294,277,295,297,300,299
+Haryana,8,Hissar,Kidnapping,66,76,52,76,99,95
+Haryana,9,Jhajjar,Kidnapping,28,34,27,35,29,30
+Haryana,10,Jind,Kidnapping,60,54,52,58,52,59
+Haryana,11,Kaithal,Kidnapping,102,109,97,101,119,120
+Haryana,12,Karnal,Kidnapping,199,182,248,256,199,192
+Haryana,13,Kurukshetra,Kidnapping,56,67,53,58,60,67
+Haryana,14,Mahendergarh,Kidnapping,66,78,50,67,87,89
+Haryana,15,Mewat,Kidnapping,64,56,55,59,53,66
+Haryana,16,Palwal,Kidnapping,73,77,52,62,69,89
+Haryana,17,Panchkula,Kidnapping,122,132,116,118,99,127
+Haryana,18,Panipat,Kidnapping,188,187,186,137,190,212
+Haryana,19,Rewari,Kidnapping,189,156,149,198,200,218
+Haryana,20,Rohtak,Kidnapping,288,295,277,300,315,333
+Haryana,21,Sirsa,Kidnapping,66,67,48,51,52,55
+Haryana,22,Sonipat,Kidnapping,67,59,57,58,60,69
+Haryana,23,Yamunanagar,Kidnapping,299,289,265,278,290,313
+Haryana,24,Irrigation & Power,Kidnapping,13,11,6,10,14,19
+Haryana,25,Total District(s),Kidnapping,2840,2825,2587,2767,2961,3120
+Himachal Pradesh,1,Baddi,Kidnapping,12,22,12,10,14,2
+Himachal Pradesh,2,Bilaspur,Kidnapping,23,25,23,12,17,18
+Himachal Pradesh,3,Chamba,Kidnapping,12,15,20,18,19,22
+Himachal Pradesh,4,C. I. D.,Kidnapping,11,9,4,3,9,19
+Himachal Pradesh,5,G. R. P.,Kidnapping,54,55,56,52,60,66
+Himachal Pradesh,6,Hamirpur,Kidnapping,13,11,10,9,13,20
+Himachal Pradesh,7,Kangra,Kidnapping,39,37,35,33,39,44
+Himachal Pradesh,8,Kinnaur,Kidnapping,3,4,5,4,9,13
+Himachal Pradesh,9,Kullu,Kidnapping,11,17,11,9,13,12
+Himachal Pradesh,10,Lahaul & Spiti,Kidnapping,13,14,10,2,9,19
+Himachal Pradesh,11,Mandi,Kidnapping,35,23,38,35,12,19
+Himachal Pradesh,12,Shimla,Kidnapping,44,16,36,34,14,22
+Himachal Pradesh,13,Sirmaur,Kidnapping,23,22,20,19,17,29
+Himachal Pradesh,14,Solan,Kidnapping,24,42,12,9,19,22
+Himachal Pradesh,15,Una,Kidnapping,13,19,17,7,9,11
+Himachal Pradesh,16,Total District(s),Kidnapping,330,331,309,256,273,338
+Jammu & Kashmir,1,Anantnag,Kidnapping,64,67,77,100,63,74
+Jammu & Kashmir,2,Awantipora,Kidnapping,13,16,23,23,39,40
+Jammu & Kashmir,3,Bandipora,Kidnapping,33,39,33,38,9,10
+Jammu & Kashmir,4,Baramulla,Kidnapping,57,77,72,79,80,90
+Jammu & Kashmir,5,Budgam,Kidnapping,59,56,62,68,70,72
+Jammu & Kashmir,6,Crime Jammu,Kidnapping,77,84,50,72,78,80
+Jammu & Kashmir,7,Crime Srinagar,Kidnapping,57,89,65,69,70,99
+Jammu & Kashmir,8,Doda,Kidnapping,34,53,27,35,69,21
+Jammu & Kashmir,9,Ganderbal,Kidnapping,33,34,31,33,43,69
+Jammu & Kashmir,10,Handwara,Kidnapping,33,33,35,29,26,88
+Jammu & Kashmir,11,Jammu,Kidnapping,198,201,202,197,200,192
+Jammu & Kashmir,12,Kargil,Kidnapping,0,0,1,10,0,12
+Jammu & Kashmir,13,Kathua,Kidnapping,52,52,51,106,110,112
+Jammu & Kashmir,14,Kishtwar,Kidnapping,9,8,10,29,11,14
+Jammu & Kashmir,15,Kulgam,Kidnapping,33,35,34,58,60,61
+Jammu & Kashmir,16,Kupwara,Kidnapping,45,48,48,45,50,52
+Jammu & Kashmir,17,Leh,Kidnapping,1,2,2,10,11,13
+Jammu & Kashmir,18,Poonch,Kidnapping,21,23,25,35,37,40
+Jammu & Kashmir,19,Pulwama,Kidnapping,32,36,33,32,43,44
+Jammu & Kashmir,20,Railways Jammu,Kidnapping,1,2,3,7,10,19
+Jammu & Kashmir,21,Railways Kashmir,Kidnapping,2,3,4,6,9,11
+Jammu & Kashmir,22,Railways Katra,Kidnapping,3,2,4,5,9,12
+Jammu & Kashmir,23,Rajouri,Kidnapping,56,56,61,66,70,77
+Jammu & Kashmir,24,Ramban,Kidnapping,17,18,18,25,28,39
+Jammu & Kashmir,25,Reasi,Kidnapping,24,25,26,38,37,29
+Jammu & Kashmir,26,Samba,Kidnapping,12,13,13,29,28,27
+Jammu & Kashmir,27,Shopian,Kidnapping,21,18,26,27,27,28
+Jammu & Kashmir,28,Sopore,Kidnapping,33,33,39,40,44,41
+Jammu & Kashmir,29,Srinagar,Kidnapping,102,101,103,103,110,99
+Jammu & Kashmir,30,Udhampur,Kidnapping,17,18,19,29,33,14
+Jammu & Kashmir,31,Total District(s),Kidnapping,1139,1242,1197,1443,1474,1579
+Jharkhand,1,Bokaro,Kidnapping,121,109,123,124,140,142
+Jharkhand,2,Chaibasa,Kidnapping,44,34,49,42,49,50
+Jharkhand,3,Chatra,Kidnapping,33,29,35,37,12,39
+Jharkhand,4,Deoghar,Kidnapping,75,78,78,80,80,78
+Jharkhand,5,Dhanbad,Kidnapping,79,89,80,83,90,91
+Jharkhand,6,Dhanbad Railway,Kidnapping,3,3,4,1,3,9
+Jharkhand,7,Dumka,Kidnapping,33,32,34,35,34,33
+Jharkhand,8,Garhwa,Kidnapping,25,28,29,33,49,52
+Jharkhand,9,Giridih,Kidnapping,55,56,57,60,64,65
+Jharkhand,10,Godda,Kidnapping,15,18,17,19,21,23
+Jharkhand,11,Gumla,Kidnapping,23,25,29,16,19,20
+Jharkhand,12,Hazaribagh,Kidnapping,53,56,53,61,99,112
+Jharkhand,13,Jamshedpur,Kidnapping,77,78,79,66,120,111
+Jharkhand,14,Jamshedpur Railway,Kidnapping,1,2,2,37,90,87
+Jharkhand,15,Jamtara,Kidnapping,10,11,12,33,14,17
+Jharkhand,16,Khunti,Kidnapping,2,3,3,2,1,9
+Jharkhand,17,Koderma,Kidnapping,11,14,17,61,70,72
+Jharkhand,18,Latehar,Kidnapping,15,18,16,8,19,20
+Jharkhand,19,Lohardagga,Kidnapping,17,16,18,20,24,31
+Jharkhand,20,Pakur,Kidnapping,21,18,22,24,41,31
+Jharkhand,21,Palamu,Kidnapping,33,32,39,44,48,60
+Jharkhand,22,Ramgarh,Kidnapping,15,16,16,18,20,28
+Jharkhand,23,Ranchi,Kidnapping,65,63,65,42,70,77
+Jharkhand,24,Sahebganj,Kidnapping,10,11,11,137,200,197
+Jharkhand,25,Saraikela,Kidnapping,32,31,35,57,60,90
+Jharkhand,26,Simdega,Kidnapping,5,6,7,5,9,2
+Jharkhand,27,Total District(s),Kidnapping,873,876,930,1145,1446,1546
+Karnataka,1,Bagalkot,Kidnapping,11,12,12,32,43,34
+Karnataka,2,Bengaluru City,Kidnapping,621,622,624,650,666,643
+Karnataka,3,Bengaluru District,Kidnapping,92,98,95,100,111,112
+Karnataka,4,Belagavi District,Kidnapping,45,42,47,45,47,46
+Karnataka,5,Ballari,Kidnapping,18,19,32,30,13,19
+Karnataka,6,Bidar,Kidnapping,10,12,15,18,19,32
+Karnataka,7,Vijayapura,Kidnapping,34,36,32,56,43,21
+Karnataka,8,Chikkaballapura,Kidnapping,3,2,5,4,9,11
+Karnataka,9,Chamarajnagar,Kidnapping,2,4,3,8,11,13
+Karnataka,10,Chikkamagaluru,Kidnapping,34,35,44,45,47,45
+Karnataka,11,Chitradurga,Kidnapping,55,56,66,35,48,52
+Karnataka,12,Dakshina Kannada,Kidnapping,6,7,7,8,21,22
+Karnataka,13,Davanagere,Kidnapping,39,56,45,40,53,60
+Karnataka,14,Dharwad,Kidnapping,19,18,21,27,40,32
+Karnataka,15,Gadag,Kidnapping,0,1,2,1,14,19
+Karnataka,16,Kalaburgi,Kidnapping,33,35,35,37,50,70
+Karnataka,17,Hassan,Kidnapping,54,56,54,58,71,72
+Karnataka,18,Haveri,Kidnapping,15,16,17,18,31,31
+Karnataka,19,Hubballi Dharwad City,Kidnapping,18,17,21,25,38,12
+Karnataka,20,K.G.F.,Kidnapping,5,7,7,20,33,25
+Karnataka,21,Kodagu,Kidnapping,6,7,7,17,30,25
+Karnataka,22,Kolar,Kidnapping,11,10,18,18,31,23
+Karnataka,23,Koppal,Kidnapping,24,23,25,5,18,20
+Karnataka,24,Mandya,Kidnapping,54,56,56,50,63,64
+Karnataka,25,Mangaluru City,Kidnapping,2,1,5,6,19,20
+Karnataka,26,Mysuru City,Kidnapping,39,36,44,48,61,62
+Karnataka,27,Mysuru District,Kidnapping,39,40,40,45,58,61
+Karnataka,28,Raichur,Kidnapping,12,11,11,12,25,22
+Karnataka,29,K.Railways,Kidnapping,31,32,32,39,52,62
+Karnataka,30,Ramanagara,Kidnapping,56,56,68,91,104,114
+Karnataka,31,Shimoga,Kidnapping,54,52,55,50,63,62
+Karnataka,32,Tumakuru,Kidnapping,32,31,35,40,53,55
+Karnataka,33,Udupi,Kidnapping,14,15,15,17,30,32
+Karnataka,34,Uttara Kannada,Kidnapping,21,18,26,31,44,45
+Karnataka,35,Yadgiri,Kidnapping,5,4,9,1,14,16
+Karnataka,36,Belagavi City,Kidnapping,10,11,13,15,16,19
+Karnataka,37,Total District(s),Kidnapping,1524,1554,1643,1742,2089,2073
+Kerala,1,Alapuzha,Kidnapping,12,23,10,12,16,18
+Kerala,2,Ernakulam Commr.,Kidnapping,5,7,8,20,21,19
+Kerala,3,Ernakulam Rural,Kidnapping,4,12,8,18,12,11
+Kerala,4,Idukki,Kidnapping,18,16,12,4,5,7
+Kerala,5,Kannur,Kidnapping,6,14,13,1,2,13
+Kerala,6,Kasargod,Kidnapping,12,4,8,8,6,13
+Kerala,7,Kollam Commr.,Kidnapping,1,5,6,6,8,9
+Kerala,8,Kollam Rural,Kidnapping,4,6,7,8,9,11
+Kerala,9,Kottayam,Kidnapping,9,7,9,10,11,14
+Kerala,10,Kozhikode Commr.,Kidnapping,11,12,8,8,7,8
+Kerala,11,Kozhikode Rural,Kidnapping,12,11,13,24,13,16
+Kerala,12,Malappuram,Kidnapping,18,16,3,8,9,13
+Kerala,13,Palakkad,Kidnapping,11,13,17,18,12,14
+Kerala,14,Pathanamthitta,Kidnapping,17,10,7,2,1,3
+Kerala,15,Railways,Kidnapping,20,30,34,35,12,14
+Kerala,16,Thrissur Commr.,Kidnapping,1,3,6,6,8,9
+Kerala,17,Thrissur Rural,Kidnapping,5,10,14,15,16,14
+Kerala,18,Trivandrum Commr.,Kidnapping,14,20,15,10,11,13
+Kerala,19,Trivandrum Rural,Kidnapping,9,12,20,28,43,34
+Kerala,20,Wayanadu,Kidnapping,6,4,7,6,7,5
+Kerala,21,Crime Branch,Kidnapping,4,9,1,10,13,15
+Kerala,22,Total District(s),Kidnapping,199,244,226,257,242,273
+Madhya Pradesh,1,Agar,Kidnapping,22,16,15,20,13,17
+Madhya Pradesh,2,Alirajpur,Kidnapping,13,15,14,11,13,13
+Madhya Pradesh,3,Anuppur,Kidnapping,65,63,57,58,60,42
+Madhya Pradesh,4,Ashok Nagar,Kidnapping,35,45,33,70,90,132
+Madhya Pradesh,5,Balaghat,Kidnapping,99,86,92,90,100,85
+Madhya Pradesh,6,Barwani,Kidnapping,25,35,23,28,30,33
+Madhya Pradesh,7,Betul,Kidnapping,89,94,90,89,99,54
+Madhya Pradesh,8,Bhind,Kidnapping,66,62,68,87,99,94
+Madhya Pradesh,9,Bhopal,Kidnapping,240,220,263,271,280,219
+Madhya Pradesh,10,Bhopal Railway,Kidnapping,5,6,7,10,11,13
+Madhya Pradesh,11,Burhanpur,Kidnapping,3,1,4,5,9,14
+Madhya Pradesh,12,Chhatarpur,Kidnapping,110,124,115,111,113,112
+Madhya Pradesh,13,Chhindwara,Kidnapping,150,139,147,150,140,113
+Madhya Pradesh,14,Damoh,Kidnapping,89,70,85,80,90,44
+Madhya Pradesh,15,Datia,Kidnapping,20,16,18,11,13,16
+Madhya Pradesh,16,Dewas,Kidnapping,65,56,65,66,88,99
+Madhya Pradesh,17,Dhar,Kidnapping,144,169,175,178,200,214
+Madhya Pradesh,18,Dindori,Kidnapping,48,44,42,56,60,55
+Madhya Pradesh,19,Guna,Kidnapping,36,31,33,32,34,35
+Madhya Pradesh,20,Gwalior,Kidnapping,100,98,105,158,160,180
+Madhya Pradesh,21,Harda,Kidnapping,73,81,74,70,90,99
+Madhya Pradesh,22,Hoshangabad,Kidnapping,52,55,54,50,40,44
+Madhya Pradesh,23,Indore,Kidnapping,330,348,332,300,333,334
+Madhya Pradesh,24,Indore Railway,Kidnapping,1,2,1,5,6,9
+Madhya Pradesh,25,Jabalpur,Kidnapping,230,255,254,250,255,243
+Madhya Pradesh,26,Jabalpur Railway,Kidnapping,3,6,4,6,7,9
+Madhya Pradesh,27,Jhabua,Kidnapping,114,110,112,115,117,118
+Madhya Pradesh,28,Katni,Kidnapping,95,91,91,99,110,112
+Madhya Pradesh,29,Khandwa,Kidnapping,62,63,68,69,70,72
+Madhya Pradesh,30,Khargone,Kidnapping,140,139,143,150,160,162
+Madhya Pradesh,31,Mandla,Kidnapping,100,98,104,156,160,165
+Madhya Pradesh,32,Mandsaur,Kidnapping,62,66,61,67,70,80
+Madhya Pradesh,33,Morena,Kidnapping,55,54,57,59,60,77
+Madhya Pradesh,34,Narsinghpur,Kidnapping,62,61,65,66,77,53
+Madhya Pradesh,35,Neemuch,Kidnapping,20,15,19,20,21,22
+Madhya Pradesh,36,Panna,Kidnapping,44,41,54,90,88,66
+Madhya Pradesh,37,Raisen,Kidnapping,49,51,50,76,44,49
+Madhya Pradesh,38,Rajgarh,Kidnapping,50,55,59,64,55,53
+Madhya Pradesh,39,Ratlam,Kidnapping,119,110,128,120,130,133
+Madhya Pradesh,40,Rewa,Kidnapping,170,178,180,188,190,144
+Madhya Pradesh,41,Sagar,Kidnapping,140,137,145,146,199,143
+Madhya Pradesh,42,Satna,Kidnapping,160,158,161,188,190,113
+Madhya Pradesh,43,Seoni,Kidnapping,115,113,112,145,146,199
+Madhya Pradesh,44,Shahdol,Kidnapping,78,79,86,89,190,114
+Madhya Pradesh,45,Shajapur,Kidnapping,26,29,28,30,40,90
+Madhya Pradesh,46,Sheopur,Kidnapping,19,12,22,25,390,445
+Madhya Pradesh,47,Shivpuri,Kidnapping,64,78,68,70,442,399
+Madhya Pradesh,48,Sidhi,Kidnapping,78,67,70,77,88,99
+Madhya Pradesh,49,Sehore,Kidnapping,60,66,62,56,77,79
+Madhya Pradesh,50,Singrauli,Kidnapping,69,56,67,67,23,44
+Madhya Pradesh,51,Tikamgarh,Kidnapping,85,89,89,90,99,55
+Madhya Pradesh,52,Ujjain,Kidnapping,155,161,159,165,199,179
+Madhya Pradesh,53,Umaria,Kidnapping,25,26,30,45,55,57
+Madhya Pradesh,54,Vidisha,Kidnapping,89,79,87,90,99,95
+Madhya Pradesh,55,Cyber Cell,Kidnapping,4,3,4,6,9,14
+Madhya Pradesh,56,Total District(s),Kidnapping,4422,4422,4551,4890,6031,5753
+Maharashtra,1,Ahmednagar,Kidnapping,149,150,148,150,155,143
+Maharashtra,2,Akola,Kidnapping,45,46,47,48,60,99
+Maharashtra,3,Amravati Commr.,Kidnapping,55,63,65,70,23,32
+Maharashtra,4,Amravati Rural,Kidnapping,109,115,113,150,110,99
+Maharashtra,5,Aurangabad Commr.,Kidnapping,91,88,90,65,62,32
+Maharashtra,6,Aurangabad Rural,Kidnapping,56,54,43,30,22,12
+Maharashtra,7,Beed,Kidnapping,61,57,60,56,58,44
+Maharashtra,8,Bhandara,Kidnapping,56,61,52,55,40,32
+Maharashtra,9,Buldhana,Kidnapping,24,27,21,25,26,12
+Maharashtra,10,Chandrapur,Kidnapping,89,90,99,109,113,140
+Maharashtra,11,Dhule,Kidnapping,27,28,24,25,26,27
+Maharashtra,12,Gadchiroli,Kidnapping,16,14,18,28,33,34
+Maharashtra,13,Gondia,Kidnapping,57,64,55,57,60,77
+Maharashtra,14,Hingoli,Kidnapping,28,30,25,38,40,55
+Maharashtra,15,Jalgaon,Kidnapping,79,83,88,98,110,120
+Maharashtra,16,Jalna,Kidnapping,67,67,69,70,90,55
+Maharashtra,17,Kolhapur,Kidnapping,150,149,158,160,170,180
+Maharashtra,18,Latur,Kidnapping,68,69,68,70,90,83
+Maharashtra,19,Mumbai Commr.,Kidnapping,930,928,904,920,1020,1120
+Maharashtra,20,Mumbai Railway,Kidnapping,12,13,16,18,2,14
+Maharashtra,21,Nagpur Commr.,Kidnapping,230,225,229,230,244,433
+Maharashtra,22,Nagpur Railway,Kidnapping,4,3,5,8,13,17
+Maharashtra,23,Nagpur Rural,Kidnapping,63,61,62,69,77,82
+Maharashtra,24,Nanded,Kidnapping,62,63,61,65,13,19
+Maharashtra,25,Nandurbar,Kidnapping,21,25,22,20,26,22
+Maharashtra,26,Nasik Commr.,Kidnapping,118,120,107,110,111,119
+Maharashtra,27,Nasik Rural,Kidnapping,120,116,119,130,132,112
+Maharashtra,28,Navi Mumbai,Kidnapping,156,178,163,160,190,112
+Maharashtra,29,Osmanabad,Kidnapping,35,45,46,57,58,63
+Maharashtra,30,Palghar,Kidnapping,236,245,249,280,300,312
+Maharashtra,31,Parbhani,Kidnapping,56,55,40,55,32,44
+Maharashtra,32,Pune Commr.,Kidnapping,489,456,466,500,433,613
+Maharashtra,33,Pune Railway,Kidnapping,4,3,5,10,9,2
+Maharashtra,34,Pune Rural,Kidnapping,155,168,170,172,144,125
+Maharashtra,35,Raigad,Kidnapping,45,48,50,52,54,55
+Maharashtra,36,Ratnagiri,Kidnapping,26,28,28,20,30,32
+Maharashtra,37,Sangli,Kidnapping,94,92,95,90,110,43
+Maharashtra,38,Satara,Kidnapping,148,150,150,147,150,166
+Maharashtra,39,Sindhudurg,Kidnapping,10,15,13,11,13,18
+Maharashtra,40,Solapur Commr.,Kidnapping,50,45,59,52,54,60
+Maharashtra,41,Solapur Rural,Kidnapping,84,91,85,90,91,92
+Maharashtra,42,Thane Commr.,Kidnapping,356,367,398,400,396,400
+Maharashtra,43,Thane Rural,Kidnapping,100,99,106,108,110,120
+Maharashtra,44,Wardha,Kidnapping,54,52,56,52,59,60
+Maharashtra,45,Washim,Kidnapping,32,36,34,37,35,44
+Maharashtra,46,Yavatmal,Kidnapping,113,117,115,111,152,150
+Maharashtra,47,Total District(s),Kidnapping,5030,5099,5096,5278,5346,5725
+Manipur,1,Bishnupur,Kidnapping,11,9,12,10,11,1
+Manipur,2,Chandel,Kidnapping,4,3,1,5,9,3
+Manipur,3,Churachandpur,Kidnapping,6,5,7,8,7,5
+Manipur,4,C. I. D.,Kidnapping,4,10,5,15,15,12
+Manipur,5,Imphal East,Kidnapping,16,14,17,18,19,13
+Manipur,6,Imphal West,Kidnapping,30,28,34,35,36,33
+Manipur,7,Senapati,Kidnapping,1,3,2,10,11,12
+Manipur,8,Tamenglong,Kidnapping,1,4,0,2,4,4
+Manipur,9,Thoubal,Kidnapping,29,26,28,35,36,32
+Manipur,10,Ukhrul,Kidnapping,2,1,3,2,6,8
+Manipur,11,Total District(s),Kidnapping,104,103,109,140,154,123
+Meghalaya,1,Garo Hills East,Kidnapping,2,3,4,8,9,1
+Meghalaya,2,Garo Hills North,Kidnapping,16,14,10,17,15,12
+Meghalaya,3,Garo Hills South,Kidnapping,2,1,3,5,4,9
+Meghalaya,4,Garo Hills South West,Kidnapping,14,13,7,11,10,12
+Meghalaya,5,Garo Hills West,Kidnapping,19,11,20,21,27,12
+Meghalaya,6,Jaintia Hills West,Kidnapping,5,6,7,5,8,9
+Meghalaya,7,Jaintia Hills East,Kidnapping,1,8,2,9,6,7
+Meghalaya,8,Khasi Hills East,Kidnapping,2,5,3,10,8,3
+Meghalaya,9,Khasi Hills South West,Kidnapping,5,4,0,12,15,13
+Meghalaya,10,Khasi Hills West,Kidnapping,4,3,2,4,7,8
+Meghalaya,11,Ri-Bhoi,Kidnapping,12,9,11,11,12,11
+Meghalaya,12,Total District(s),Kidnapping,82,77,69,113,121,97
+Mizoram,1,Aizawl,Kidnapping,2,6,3,1,0,3
+Mizoram,2,Champhai,Kidnapping,5,6,7,4,2,1
+Mizoram,3,Kolasib,Kidnapping,1,3,3,4,2,4
+Mizoram,4,Lawngtlai,Kidnapping,0,2,1,2,4,2
+Mizoram,5,Lunglei,Kidnapping,4,5,2,8,4,2
+Mizoram,6,Mamit,Kidnapping,7,4,3,0,12,11
+Mizoram,7,Saiha,Kidnapping,4,5,5,6,4,3
+Mizoram,8,Serchhip,Kidnapping,2,1,1,7,17,15
+Mizoram,9,Spl Traffic,Kidnapping,50,45,54,50,53,44
+Mizoram,10,Spl Narcotic,Kidnapping,34,30,33,28,29,22
+Mizoram,11,Total District(s),Kidnapping,7,5,8,9,11,23
+Nagaland,1,Dimapur,Kidnapping,25,26,29,31,35,34
+Nagaland,2,Kiphire,Kidnapping,7,6,8,10,16,16
+Nagaland,3,Kohima,Kidnapping,3,5,4,14,15,17
+Nagaland,4,Longleng,Kidnapping,9,8,5,6,7,9
+Nagaland,5,Mokokchung,Kidnapping,2,4,6,5,9,11
+Nagaland,6,Mon,Kidnapping,1,2,2,4,11,13
+Nagaland,7,Peren,Kidnapping,1,4,2,5,13,15
+Nagaland,8,Phek,Kidnapping,7,5,3,2,12,11
+Nagaland,9,Tuensang,Kidnapping,2,0,1,1,15,12
+Nagaland,10,Wokha,Kidnapping,4,3,5,3,8,1
+Nagaland,11,Zunheboto,Kidnapping,3,4,7,8,6,5
+Nagaland,12,Total District(s),Kidnapping,64,67,72,89,147,144
+Odisha,1,Angul,Kidnapping,89,78,79,81,63,42
+Odisha,2,Balasore,Kidnapping,169,159,194,192,195,199
+Odisha,3,Baragarh,Kidnapping,84,79,88,84,86,88
+Odisha,4,Berhampur,Kidnapping,52,45,54,56,36,44
+Odisha,5,Bhadrak,Kidnapping,125,135,126,122,150,142
+Odisha,6,Bolangir,Kidnapping,99,97,94,88,95,88
+Odisha,7,Boudh,Kidnapping,13,12,14,15,16,14
+Odisha,8,Cuttack,Kidnapping,72,78,70,74,34,32
+Odisha,9,DCP BBSR,Kidnapping,145,144,140,144,156,160
+Odisha,10,DCP CTC,Kidnapping,110,123,106,102,104,84
+Odisha,11,Deogarh,Kidnapping,23,24,23,21,36,44
+Odisha,12,Dhenkanal,Kidnapping,42,45,47,48,25,53
+Odisha,13,Gajapati,Kidnapping,1,0,5,7,4,9
+Odisha,14,Ganjam,Kidnapping,115,114,112,113,165,200
+Odisha,15,Jagatsinghpur,Kidnapping,78,79,68,64,24,25
+Odisha,16,Jajpur,Kidnapping,130,123,121,123,165,177
+Odisha,17,Jharsuguda,Kidnapping,22,23,24,21,24,12
+Odisha,18,Kalahandi,Kidnapping,100,123,105,108,123,150
+Odisha,19,Kandhamal,Kidnapping,74,67,76,71,68,22
+Odisha,20,Kendrapara,Kidnapping,72,74,78,73,25,25
+Odisha,21,Keonjhar,Kidnapping,74,73,75,78,45,46
+Odisha,22,Khurda,Kidnapping,55,54,53,57,24,22
+Odisha,23,Koraput,Kidnapping,84,84,86,95,26,4
+Odisha,24,Malkangiri,Kidnapping,22,21,24,20,21,21
+Odisha,25,Mayurbhanj,Kidnapping,136,132,126,128,190,188
+Odisha,26,Nayagarh,Kidnapping,55,56,52,55,23,22
+Odisha,27,Nabarangpur,Kidnapping,123,122,110,118,120,122
+Odisha,28,Nuapada,Kidnapping,30,29,32,35,34,22
+Odisha,29,Puri,Kidnapping,148,156,135,138,156,160
+Odisha,30,Rayagada,Kidnapping,74,69,78,79,88,78
+Odisha,31,Rourkela,Kidnapping,119,123,83,111,121,112
+Odisha,32,Sambalpur,Kidnapping,36,31,38,35,35,40
+Odisha,33,Sonepur,Kidnapping,15,14,16,26,12,13
+Odisha,34,SRP (Cuttack),Kidnapping,6,5,3,0,4,8
+Odisha,35,SRP (Rourkela),Kidnapping,4,3,6,7,2,3
+Odisha,36,Sundargarh,Kidnapping,44,43,46,49,36,44
+Odisha,37,"CID, CB",Kidnapping,21,20,23,21,20,21
+Odisha,38,HRPC,Kidnapping,45,44,43,58,45,44
+Odisha,39,Total District(s),Kidnapping,2706,2701,2653,2717,2596,2580
+Punjab,1,Amritsar Rural,Kidnapping,59,55,69,70,73,47
+Punjab,2,Barnala,Kidnapping,29,22,29,28,24,37
+Punjab,3,Batala,Kidnapping,39,32,41,47,41,42
+Punjab,4,Bathinda,Kidnapping,42,44,47,52,50,44
+Punjab,5,CP Amritsar,Kidnapping,56,51,62,69,70,72
+Punjab,6,CP Jalandhar,Kidnapping,89,84,99,101,104,144
+Punjab,7,CP Ludhiana,Kidnapping,221,224,231,238,250,244
+Punjab,8,Faridkot,Kidnapping,7,4,8,3,4,9
+Punjab,9,Fatehgarh Sahib,Kidnapping,11,12,13,17,18,19
+Punjab,10,Fazilka,Kidnapping,34,25,24,20,12,13
+Punjab,11,Ferozepur,Kidnapping,21,22,38,35,30,44
+Punjab,12,G. R. P.,Kidnapping,33,35,2,4,5,0
+Punjab,13,Gurdaspur,Kidnapping,21,25,25,27,11,13
+Punjab,14,Hoshiarpur,Kidnapping,44,45,47,41,42,44
+Punjab,15,Jalandhar Rural,Kidnapping,28,29,32,35,24,23
+Punjab,16,Kapurthala,Kidnapping,29,29,32,30,31,33
+Punjab,17,Khanna,Kidnapping,34,33,42,25,10,9
+Punjab,18,Ludhiana Rural,Kidnapping,54,56,58,49,52,44
+Punjab,19,Mansa,Kidnapping,6,4,7,10,5,6
+Punjab,20,Moga,Kidnapping,33,35,39,33,41,42
+Punjab,21,Muktsar,Kidnapping,13,12,23,27,33,35
+Punjab,22,Pathankot,Kidnapping,23,28,24,28,26,12
+Punjab,23,Patiala,Kidnapping,67,66,87,88,89,88
+Punjab,24,Ropar,Kidnapping,12,11,16,17,18,19
+Punjab,25,Sangrur,Kidnapping,44,47,48,29,31,32
+Punjab,26,SAS Nagar,Kidnapping,56,56,65,66,68,70
+Punjab,27,SBS Nagar,Kidnapping,30,31,43,48,51,22
+Punjab,28,Tarn Taran,Kidnapping,43,41,45,43,48,20
+Punjab,29,Total District(s),Kidnapping,1178,1158,1296,1280,1261,1227
+Rajasthan,1,Ajmer,Kidnapping,160,150,167,200,201,211
+Rajasthan,2,Alwar,Kidnapping,201,213,224,250,236,214
+Rajasthan,3,Banswara,Kidnapping,121,113,128,150,158,160
+Rajasthan,4,Baran,Kidnapping,126,117,128,157,154,122
+Rajasthan,5,Barmer,Kidnapping,45,46,47,50,50,50
+Rajasthan,6,Bharatpur,Kidnapping,189,178,196,198,150,140
+Rajasthan,7,Bhilwara,Kidnapping,201,213,212,200,150,122
+Rajasthan,8,Bikaner,Kidnapping,56,45,65,68,74,79
+Rajasthan,9,Bundi,Kidnapping,122,130,128,129,130,133
+Rajasthan,10,Chittorgarh,Kidnapping,141,145,142,132,136,156
+Rajasthan,11,Churu,Kidnapping,40,41,42,45,42,44
+Rajasthan,12,Dausa,Kidnapping,66,66,61,60,55,56
+Rajasthan,13,Dholpur,Kidnapping,89,82,90,92,95,77
+Rajasthan,14,Dungarpur,Kidnapping,105,115,121,120,150,144
+Rajasthan,15,G.R.P.Ajmer,Kidnapping,4,3,5,7,4,8
+Rajasthan,16,G.R.P.Jodhpur,Kidnapping,0,2,1,2,1,9
+Rajasthan,17,Ganganagar,Kidnapping,101,112,108,109,100,77
+Rajasthan,18,Hanumangarh,Kidnapping,80,82,80,89,90,78
+Rajasthan,19,Jaipur East,Kidnapping,121,119,122,125,150,144
+Rajasthan,20,Jaipur North,Kidnapping,78,74,89,83,84,99
+Rajasthan,21,Jaipur Rural,Kidnapping,79,79,95,91,92,88
+Rajasthan,22,Jaipur South,Kidnapping,56,55,69,66,49,50
+Rajasthan,23,Jaipur West,Kidnapping,118,120,123,135,126,128
+Rajasthan,24,Jaisalmer,Kidnapping,11,13,13,15,14,18
+Rajasthan,25,Jalore,Kidnapping,29,33,31,129,150,144
+Rajasthan,26,Jhalawar,Kidnapping,123,119,124,123,148,150
+Rajasthan,27,Jhunjhunu,Kidnapping,67,57,68,56,55,59
+Rajasthan,28,Jodhpur East,Kidnapping,32,45,36,45,35,55
+Rajasthan,29,Jodhpur West,Kidnapping,39,34,42,22,25,23
+Rajasthan,30,Jodhpur Rural,Kidnapping,52,56,54,62,74,88
+Rajasthan,31,Karauli,Kidnapping,90,91,94,78,192,188
+Rajasthan,32,Kota City,Kidnapping,142,156,143,157,150,152
+Rajasthan,33,Kota Rural,Kidnapping,78,77,81,182,160,162
+Rajasthan,34,Nagaur,Kidnapping,139,156,146,192,148,150
+Rajasthan,35,Pali,Kidnapping,133,123,139,133,122,133
+Rajasthan,36,Pratapgarh,Kidnapping,102,110,106,105,104,114
+Rajasthan,37,Rajsamand,Kidnapping,72,71,76,79,48,80
+Rajasthan,38,Sawai Madhopur,Kidnapping,89,89,91,97,92,95
+Rajasthan,39,Sikar,Kidnapping,104,115,105,108,105,110
+Rajasthan,40,Sirohi,Kidnapping,69,67,72,79,84,90
+Rajasthan,41,Tonk,Kidnapping,72,78,74,76,80,90
+Rajasthan,42,Udaipur,Kidnapping,233,244,234,238,250,224
+Rajasthan,43,Jaipur Metro,Kidnapping,18,15,20,25,18,12
+Rajasthan,44,Total District(s),Kidnapping,3993,4049,4192,4559,4531,4526
+Sikkim,1,East,Kidnapping,17,16,18,17,16,14
+Sikkim,2,North,Kidnapping,7,6,8,4,3,1
+Sikkim,3,South,Kidnapping,1,2,3,1,8,9
+Sikkim,4,West,Kidnapping,2,1,2,0,1,0
+Sikkim,5,Total District(s),Kidnapping,19,16,21,22,25,42
+Tamil Nadu,1,Ariyalur,Kidnapping,2,3,3,5,4,3
+Tamil Nadu,2,Chennai,Kidnapping,11,16,15,17,18,15
+Tamil Nadu,3,Coimbatore,Kidnapping,12,11,19,21,19,22
+Tamil Nadu,4,Coimbatore City,Kidnapping,5,4,6,4,2,3
+Tamil Nadu,5,Cuddalore,Kidnapping,43,42,47,51,55,66
+Tamil Nadu,6,Dharmapuri,Kidnapping,95,94,99,129,162,170
+Tamil Nadu,7,Dindigul,Kidnapping,144,123,148,151,189,190
+Tamil Nadu,8,Erode,Kidnapping,4,3,8,3,1,4
+Tamil Nadu,9,Kanchipuram,Kidnapping,8,5,10,4,2,14
+Tamil Nadu,10,Kanyakumari,Kidnapping,18,16,18,20,16,16
+Tamil Nadu,11,Karur,Kidnapping,3,2,5,4,4,6
+Tamil Nadu,12,Krishnagiri,Kidnapping,63,66,67,67,66,70
+Tamil Nadu,13,Madurai,Kidnapping,111,116,118,199,200,210
+Tamil Nadu,14,Madurai City,Kidnapping,15,14,17,15,14,9
+Tamil Nadu,15,Nagapattinam,Kidnapping,28,20,30,18,19,10
+Tamil Nadu,16,Namakkal,Kidnapping,33,34,34,29,29,19
+Tamil Nadu,17,Nilgiris,Kidnapping,3,2,4,1,1,0
+Tamil Nadu,18,Perambalur,Kidnapping,3,1,4,0,2,0
+Tamil Nadu,19,Pudukottai,Kidnapping,12,15,16,16,16,17
+Tamil Nadu,20,Ramnathapuram,Kidnapping,44,49,46,21,15,13
+Tamil Nadu,21,Railway Chennai,Kidnapping,0,3,1,0,4,6
+Tamil Nadu,22,Railway Trichy,Kidnapping,2,1,4,0,2,2
+Tamil Nadu,23,Salem,Kidnapping,67,64,96,29,28,14
+Tamil Nadu,24,Salem City,Kidnapping,11,14,12,11,12,16
+Tamil Nadu,25,Sivagangai,Kidnapping,65,66,64,56,48,33
+Tamil Nadu,26,Thanjavur,Kidnapping,18,20,19,21,26,24
+Tamil Nadu,27,Theni,Kidnapping,46,39,38,28,29,22
+Tamil Nadu,28,Thirunelveli,Kidnapping,33,34,37,32,44,42
+Tamil Nadu,29,Thirunelveli City,Kidnapping,1,2,2,0,1,1
+Tamil Nadu,30,Thiruvallur,Kidnapping,2,1,3,5,4,3
+Tamil Nadu,31,Thiruvannamalai,Kidnapping,33,35,41,42,41,42
+Tamil Nadu,32,Thiruvarur,Kidnapping,38,35,40,35,35,22
+Tamil Nadu,33,Thoothukudi,Kidnapping,17,16,18,17,19,21
+Tamil Nadu,34,Tiruppur,Kidnapping,18,12,21,25,25,22
+Tamil Nadu,35,Tiruppur City,Kidnapping,5,4,4,15,14,16
+Tamil Nadu,36,Trichy,Kidnapping,12,16,14,4,3,1
+Tamil Nadu,37,Trichy City,Kidnapping,9,6,8,9,6,9
+Tamil Nadu,38,Vellore,Kidnapping,32,34,39,47,48,55
+Tamil Nadu,39,Villupuram,Kidnapping,145,150,144,183,199,201
+Tamil Nadu,40,Virudhunagar,Kidnapping,22,24,20,14,20,21
+Tamil Nadu,41,Cyber Cell,Kidnapping,18,15,17,21,25,24
+Tamil Nadu,42,Other Units,Kidnapping,15,18,13,15,18,31
+Tamil Nadu,43,Total District(s),Kidnapping,1266,1245,1369,1384,1485,1485
+Telangana,1,Adilabad,Kidnapping,50,45,26,50,80,81
+Telangana,2,Cyberabad,Kidnapping,60,49,57,59,60,61
+Telangana,3,Hyderabad City,Kidnapping,139,158,132,139,153,189
+Telangana,4,Karimnagar,Kidnapping,70,67,57,57,54,55
+Telangana,5,Khammam,Kidnapping,101,123,97,104,140,144
+Telangana,6,Mahaboob Nagar,Kidnapping,111,114,110,111,120,132
+Telangana,7,Medak,Kidnapping,42,45,44,22,18,20
+Telangana,8,Nalgonda,Kidnapping,59,58,40,22,5,9
+Telangana,9,Nizamabad,Kidnapping,18,16,12,4,16,20
+Telangana,10,Ranga Reddy,Kidnapping,9,6,10,18,18,21
+Telangana,11,Secunderabad Railway,Kidnapping,1,2,0,1,0,23
+Telangana,12,Warangal Rural,Kidnapping,38,37,39,40,39,45
+Telangana,13,Warangal City,Kidnapping,22,23,24,12,15,18
+Telangana,14,Total District(s),Kidnapping,720,743,648,639,718,818
+Tripura,1,Dhalai,Kidnapping,11,12,10,2,4,9
+Tripura,2,Gomati,Kidnapping,18,17,12,4,0,9
+Tripura,3,G. R. P.,Kidnapping,1,3,0,26,28,34
+Tripura,4,Kowai,Kidnapping,15,17,12,17,15,16
+Tripura,5,North,Kidnapping,13,15,17,18,16,18
+Tripura,6,Sipahijala,Kidnapping,17,12,18,29,30,34
+Tripura,7,South,Kidnapping,18,18,13,12,15,13
+Tripura,8,Unakoti,Kidnapping,9,6,9,28,29,20
+Tripura,9,West,Kidnapping,26,27,29,33,32,31
+Tripura,10,Total District(s),Kidnapping,128,127,120,169,169,184
+Uttar Pradesh,1,Agra,Kidnapping,386,344,353,310,305,299
+Uttar Pradesh,2,Aligarh,Kidnapping,286,245,292,283,223,219
+Uttar Pradesh,3,Allahabad,Kidnapping,224,225,223,225,230,222
+Uttar Pradesh,4,Ambedkar Nagar,Kidnapping,78,73,71,75,78,82
+Uttar Pradesh,5,Amethi,Kidnapping,99,94,92,94,97,92
+Uttar Pradesh,6,Amroha,Kidnapping,89,86,81,89,90,88
+Uttar Pradesh,7,Auraiya,Kidnapping,146,159,106,126,135,122
+Uttar Pradesh,8,Azamgarh,Kidnapping,139,149,128,128,130,144
+Uttar Pradesh,9,Badaun,Kidnapping,203,201,200,199,200,188
+Uttar Pradesh,10,Baghpat,Kidnapping,90,93,86,94,100,102
+Uttar Pradesh,11,Bahraich,Kidnapping,160,156,128,189,154,160
+Uttar Pradesh,12,Ballia,Kidnapping,110,111,109,110,198,200
+Uttar Pradesh,13,Balrampur,Kidnapping,37,34,36,35,45,78
+Uttar Pradesh,14,Banda,Kidnapping,58,41,64,68,62,55
+Uttar Pradesh,15,Barabanki,Kidnapping,78,68,75,79,75,88
+Uttar Pradesh,16,Bareilly,Kidnapping,337,335,335,338,400,299
+Uttar Pradesh,17,Basti,Kidnapping,68,69,70,83,88,90
+Uttar Pradesh,18,Bijnor,Kidnapping,186,178,164,145,143,150
+Uttar Pradesh,19,Bulandshahar,Kidnapping,234,256,247,239,235,266
+Uttar Pradesh,20,Chandoli,Kidnapping,34,35,62,78,72,78
+Uttar Pradesh,21,Chitrakoot,Kidnapping,54,51,55,66,68,89
+Uttar Pradesh,22,Deoria,Kidnapping,112,111,124,135,148,160
+Uttar Pradesh,23,Etah,Kidnapping,89,82,91,89,90,150
+Uttar Pradesh,24,Etawah,Kidnapping,122,120,125,123,150,160
+Uttar Pradesh,25,Faizabad,Kidnapping,102,111,100,110,120,130
+Uttar Pradesh,26,Fatehgarh,Kidnapping,90,93,97,98,99,110
+Uttar Pradesh,27,Fatehpur,Kidnapping,135,145,134,139,136,122
+Uttar Pradesh,28,Firozabad,Kidnapping,250,256,234,250,259,260
+Uttar Pradesh,29,G. R. P.,Kidnapping,20,21,22,25,14,15
+Uttar Pradesh,30,Gautambudh Nagar,Kidnapping,189,187,150,142,157,160
+Uttar Pradesh,31,Ghaziabad,Kidnapping,350,345,427,458,367,399
+Uttar Pradesh,32,Ghazipur,Kidnapping,142,145,148,161,160,156
+Uttar Pradesh,33,Gonda,Kidnapping,85,83,87,91,100,98
+Uttar Pradesh,34,Gorakhpur,Kidnapping,233,245,236,251,259,244
+Uttar Pradesh,35,Hamirpur,Kidnapping,46,44,66,78,78,82
+Uttar Pradesh,36,Hapur,Kidnapping,90,91,84,194,164,160
+Uttar Pradesh,37,Hardoi,Kidnapping,144,156,151,186,150,139
+Uttar Pradesh,38,Hathras,Kidnapping,88,83,87,95,98,84
+Uttar Pradesh,39,Jalaun,Kidnapping,49,44,50,52,68,72
+Uttar Pradesh,40,Jaunpur,Kidnapping,124,122,126,148,150,146
+Uttar Pradesh,41,Jhansi,Kidnapping,133,134,140,126,139,135
+Uttar Pradesh,42,Kannauj,Kidnapping,79,80,94,129,136,125
+Uttar Pradesh,43,Kanpur Dehat,Kidnapping,132,123,133,188,200,196
+Uttar Pradesh,44,Kanpur Nagar,Kidnapping,404,407,421,348,425,458
+Uttar Pradesh,45,Kasganj,Kidnapping,98,99,92,27,30,36
+Uttar Pradesh,46,Kaushambi,Kidnapping,112,117,119,128,124,112
+Uttar Pradesh,47,Khiri,Kidnapping,183,189,184,199,200,198
+Uttar Pradesh,48,Kushi Nagar,Kidnapping,155,161,161,122,128,165
+Uttar Pradesh,49,Lalitpur,Kidnapping,42,42,44,32,25,26
+Uttar Pradesh,50,Lucknow,Kidnapping,343,248,347,396,400,368
+Uttar Pradesh,51,Maharajganj,Kidnapping,72,71,70,80,40,39
+Uttar Pradesh,52,Mahoba,Kidnapping,52,55,57,60,50,46
+Uttar Pradesh,53,Mainpuri,Kidnapping,102,104,106,188,190,169
+Uttar Pradesh,54,Mathura,Kidnapping,140,155,158,122,132,125
+Uttar Pradesh,55,Mau,Kidnapping,77,89,79,167,154,136
+Uttar Pradesh,56,Meerut,Kidnapping,132,128,135,138,160,159
+Uttar Pradesh,57,Mirzapur,Kidnapping,4,3,9,11,5,4
+Uttar Pradesh,58,Moradabad,Kidnapping,198,199,200,192,200,198
+Uttar Pradesh,59,Muzaffarnagar,Kidnapping,142,150,147,142,122,113
+Uttar Pradesh,60,Pilibhit,Kidnapping,86,86,99,121,140,139
+Uttar Pradesh,61,Pratapgarh,Kidnapping,163,165,164,134,125,121
+Uttar Pradesh,62,Raibareilly,Kidnapping,89,90,90,111,110,11
+Uttar Pradesh,63,Rampur,Kidnapping,102,113,108,70,65,70
+Uttar Pradesh,64,Saharanpur,Kidnapping,166,156,168,189,170,169
+Uttar Pradesh,65,Sambhal,Kidnapping,113,118,111,101,110,125
+Uttar Pradesh,66,Sant Kabirnagar,Kidnapping,58,56,59,60,70,15
+Uttar Pradesh,67,Shahjahanpur,Kidnapping,173,178,176,174,189,400
+Uttar Pradesh,68,Shamli,Kidnapping,64,66,62,89,90,99
+Uttar Pradesh,69,Shrawasti,Kidnapping,35,37,42,38,36,49
+Uttar Pradesh,70,Sidharthnagar,Kidnapping,73,67,75,77,78,72
+Uttar Pradesh,71,Sitapur,Kidnapping,129,135,192,182,190,146
+Uttar Pradesh,72,Sonbhadra,Kidnapping,23,21,24,34,38,45
+Uttar Pradesh,73,Bhadohi,Kidnapping,33,36,34,22,35,43
+Uttar Pradesh,74,Sultanpur,Kidnapping,112,118,129,122,125,150
+Uttar Pradesh,75,Unnao,Kidnapping,197,198,207,217,250,256
+Uttar Pradesh,76,Varanasi,Kidnapping,182,169,183,189,190,200
+Uttar Pradesh,77,Total District(s),Kidnapping,9954,9850,10135,10603,10766,10876
+Uttarakhand,1,Almora,Kidnapping,19,15,21,26,26,25
+Uttarakhand,2,Bageshwar,Kidnapping,9,3,10,18,19,12
+Uttarakhand,3,Chamoli,Kidnapping,18,14,21,35,28,33
+Uttarakhand,4,Champawat,Kidnapping,3,2,4,10,15,12
+Uttarakhand,5,Dehradun,Kidnapping,22,27,26,28,30,33
+Uttarakhand,6,Haridwar,Kidnapping,73,77,76,75,72,77
+Uttarakhand,7,Nainital,Kidnapping,24,24,28,21,16,16
+Uttarakhand,8,Pauri Garhwal,Kidnapping,22,21,24,19,14,19
+Uttarakhand,9,Pithoragarh,Kidnapping,5,4,7,10,5,10
+Uttarakhand,10,Rudra Prayag,Kidnapping,66,65,65,100,96,92
+Uttarakhand,11,Tehri Garhwal,Kidnapping,16,13,16,18,16,15
+Uttarakhand,12,Udhamsingh Nagar,Kidnapping,79,77,94,102,100,99
+Uttarakhand,13,Uttarkashi,Kidnapping,8,7,9,15,12,15
+Uttarakhand,14,Total District(s),Kidnapping,364,349,401,477,449,458
+West Bengal,1,North 24 Parganas,Kidnapping,399,333,383,458,500,400
+West Bengal,2,South 24 Parganas,Kidnapping,372,345,375,325,340,500
+West Bengal,3,Alipurduar,Kidnapping,72,76,76,72,86,125
+West Bengal,4,Asansol-Durgapur PC,Kidnapping,59,66,71,84,82,128
+West Bengal,5,Bankura,Kidnapping,88,89,76,98,99,99
+West Bengal,6,Barrackpur PC,Kidnapping,129,134,137,127,150,140
+West Bengal,7,Bidhannagar PC,Kidnapping,20,29,18,29,27,29
+West Bengal,8,Birbhum,Kidnapping,19,33,28,35,32,32
+West Bengal,9,Burdwan,Kidnapping,167,199,172,201,205,200
+West Bengal,10,Coochbehar,Kidnapping,178,176,177,101,192,199
+West Bengal,11,Dakshin Dinajpur,Kidnapping,59,76,97,100,96,93
+West Bengal,12,Darjeeling,Kidnapping,27,34,35,35,40,48
+West Bengal,13,Hooghly,Kidnapping,162,173,169,168,150,112
+West Bengal,14,Howrah G. R. P.,Kidnapping,2,3,4,5,8,6
+West Bengal,15,Howrah PC,Kidnapping,42,49,49,42,56,50
+West Bengal,16,Howrah Rural,Kidnapping,98,54,100,99,114,162
+West Bengal,17,Jalpaiguri,Kidnapping,172,177,176,183,192,199
+West Bengal,18,Jhargram Police District,Kidnapping,19,23,26,25,16,12
+West Bengal,19,Kharagpur G. R. P.,Kidnapping,26,27,32,34,35,30
+West Bengal,20,Kolkata,Kidnapping,189,198,194,183,140,150
+West Bengal,21,Malda,Kidnapping,220,221,241,245,270,290
+West Bengal,22,Murshidabad,Kidnapping,256,267,298,315,320,350
+West Bengal,23,Nadia,Kidnapping,359,360,395,278,300,300
+West Bengal,24,Paschim Medinipur,Kidnapping,199,355,208,199,200,260
+West Bengal,25,Purab Medinipur,Kidnapping,112,111,116,188,148,150
+West Bengal,26,Purulia,Kidnapping,18,29,30,21,15,14
+West Bengal,27,Sealdah G. R. P.,Kidnapping,2,5,8,9,10,12
+West Bengal,28,Siliguri G. R. P.,Kidnapping,73,75,76,78,69,70
+West Bengal,29,Siliguri PC,Kidnapping,198,201,207,250,193,200
+West Bengal,30,Uttar Dinajpur,Kidnapping,67,71,72,77,68,78
+West Bengal,31,Total District(s),Kidnapping,3803,3989,4046,4064,4153,4438
+A & N Islands,1,South Andaman,Kidnapping,18,13,11,39,48,4050
+A & N Islands,2,North & Middle Andaman,Kidnapping,11,15,10,25,15,12
+A & N Islands,3,Nicobar,Kidnapping,58,55,56,70,69,49
+A & N Islands,4,Total District(s),Kidnapping,87,83,77,134,132,141
+Chandigarh,2,Total District(s),Kidnapping,162,166,165,133,200,250
+D&N Haveli,2,Total District(s),Kidnapping,11,19,9,10,14,14
+Daman & Diu,1,Daman,Kidnapping,18,29,10,29,30,25
+Daman & Diu,2,Diu,Kidnapping,2,5,3,4,2,1
+Daman & Diu,3,Total District(s),Kidnapping,20,34,13,33,32,26
+Delhi UT,1,Central,Kidnapping,189,202,188,176,150,140
+Delhi UT,2,Crime Branch,Kidnapping,2,3,1,8,10,11
+Delhi UT,3,East,Kidnapping,449,499,448,494,500,512
+Delhi UT,4,EOW,Kidnapping,33,44,34,38,29,30
+Delhi UT,5,IGI Airport,Kidnapping,2,0,2,4,4,0
+Delhi UT,6,Metro,Kidnapping,5,2,1,3,2,1
+Delhi UT,7,New Delhi,Kidnapping,24,29,26,29,30,25
+Delhi UT,8,North,Kidnapping,189,144,160,173,150,140
+Delhi UT,9,North-East,Kidnapping,459,502,533,594,500,511
+Delhi UT,10,North-West,Kidnapping,335,404,373,383,440,402
+Delhi UT,11,Outer,Kidnapping,666,664,652,677,690,680
+Delhi UT,12,RAILWAY,Kidnapping,5,11,9,11,5,4
+Delhi UT,13,South,Kidnapping,529,523,495,492,500,512
+Delhi UT,14,South-East,Kidnapping,500,550,475,448,449,446
+Delhi UT,15,South-West,Kidnapping,420,423,413,450,460,490
+Delhi UT,16,Spl Cell,Kidnapping,62,54,60,68,62,63
+Delhi UT,17,SPUWAC,Kidnapping,40,44,43,47,45,48
+Delhi UT,18,Vigilance,Kidnapping,25,42,24,28,26,24
+Delhi UT,19,West,Kidnapping,562,525,525,550,499,515
+Delhi UT,20,Total District(s),Kidnapping,4496,4665,4462,4673,4551,4554
+Lakshadweep,2,Total District(s),Kidnapping,34,37,45,48,40,35
+Puducherry,1,Karaikal,Kidnapping,0,2,1,2,2,1
+Puducherry,2,Puducherry,Kidnapping,11,18,13,15,18,16
+Puducherry,3,Total District(s),Kidnapping,11,20,14,17,20,17
+,,,,,,,,,
